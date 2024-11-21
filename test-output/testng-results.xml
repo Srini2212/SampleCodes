@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-08T18:26:05 QYZT" name="Default suite" finished-at="2023-06-08T18:26:29 QYZT" duration-ms="24037">
+    <groups>
+    </groups>
+    <test started-at="2023-06-08T18:26:05 QYZT" name="Default test" finished-at="2023-06-08T18:26:29 QYZT" duration-ms="24037">
+      <class name="com.studentsmarkupload.StudentsMarkUpload">
+        <test-method signature="marksUpload()[pri:4, instance:com.studentsmarkupload.StudentsMarkUpload@4c60d6e9]" started-at="2023-06-08T18:26:05 QYZT" name="marksUpload" finished-at="2023-06-08T18:26:29 QYZT" duration-ms="23981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- marksUpload -->
+      </class> <!-- com.studentsmarkupload.StudentsMarkUpload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
